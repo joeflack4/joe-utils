@@ -1,2 +1,2 @@
-# Jflack - Joe's Python Library
-A python library of various things.
+# Joefuncs
+A collection of reusable Python3 functions by Joe Flack.
