@@ -1,0 +1,2 @@
+"""Joefuncs."""
+import joefuncs.sorts
