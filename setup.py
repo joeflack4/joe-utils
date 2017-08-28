@@ -20,7 +20,7 @@ setup(
     install_requires=[],
     tests_require=[],
     url='http://www.joeflack.net/',
-    download_url='https://github.com/joeflack4/joefuncs/tarball/master',
+    download_url='https://github.com/joeflack4/joefuncs/archive/0.1.0.tar.gz',
     keywords=['joeflack4', 'functions'],
     license='MIT',
     classifiers=[
