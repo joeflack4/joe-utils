@@ -1,4 +1,4 @@
-"""Sorts."""
+"""Sorting algorithms."""
 
 
 def qsort(arr):

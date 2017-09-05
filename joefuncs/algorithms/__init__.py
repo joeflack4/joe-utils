@@ -1,1 +1,2 @@
-from joefuncs.algorithms import sorts
+"""Algorithms."""
+from joefuncs.algorithms import sorts, hash
