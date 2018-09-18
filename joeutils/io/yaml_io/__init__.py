@@ -1,5 +1,5 @@
 """YAML IO."""
-from joefuncs.io.file_io import read_contents
+from joeutils.io.file_io import read_contents
 
 
 def yaml_load_clean(data):

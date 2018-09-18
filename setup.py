@@ -10,11 +10,11 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='joefuncs',
-    version='0.1.0',
+    name='joe-utils',
+    version='0.1.1',
     author='Joe Flack',
     author_email='joeflack4@gmail.com',
-    description=('Joefuncs - A collection of reusable Python3 functions by '
+    description=('Joe Utils - A collection of reusable Python3 utilities by '
                  'Joe Flack (joeflack4@gmail.com).'),
     long_description=__doc__,
     packages=find_packages(),
@@ -23,8 +23,7 @@ setup(
     install_requires=[],
     tests_require=[],
     url='http://www.joeflack.net/',
-    download_url='https://github.com/joeflack4/joefuncs/archive/0.1.0.tar.gz',
-    keywords=['joeflack4', 'functions'],
+    keywords=['joeflack4', 'utilities'],
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
